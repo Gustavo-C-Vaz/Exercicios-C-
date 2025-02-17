@@ -1,0 +1,14 @@
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\bin\Debug\net7.0\ExercicioClasse1.exe
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\bin\Debug\net7.0\ExercicioClasse1.deps.json
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\bin\Debug\net7.0\ExercicioClasse1.runtimeconfig.json
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\bin\Debug\net7.0\ExercicioClasse1.dll
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\bin\Debug\net7.0\ExercicioClasse1.pdb
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\obj\Debug\net7.0\ExercicioClasse1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\obj\Debug\net7.0\ExercicioClasse1.AssemblyInfoInputs.cache
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\obj\Debug\net7.0\ExercicioClasse1.AssemblyInfo.cs
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\obj\Debug\net7.0\ExercicioClasse1.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\obj\Debug\net7.0\ExercicioClasse1.dll
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\obj\Debug\net7.0\refint\ExercicioClasse1.dll
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\obj\Debug\net7.0\ExercicioClasse1.pdb
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\obj\Debug\net7.0\ExercicioClasse1.genruntimeconfig.cache
+C:\Users\Gustavo Vaz\Documents\PROJETOS\ExercicioClasse1\ExercicioClasse1\obj\Debug\net7.0\ref\ExercicioClasse1.dll
